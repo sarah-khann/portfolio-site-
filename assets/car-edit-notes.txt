@@ -1,0 +1,2 @@
+Edited with the built-in image_gen tool. Original retained in car-original.jpg.
+Prompt: Enhance the supplied car photograph naturally with tighter framing, balanced blue-hour exposure, slightly lifted black paint detail, contrast, clarity, and reduced noise. Preserve the car, wheels, badge, lights, perspective, and parking-lot setting. No added objects or artificial rendering.
